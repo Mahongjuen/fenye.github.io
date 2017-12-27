@@ -120,6 +120,7 @@ header{
      width: 0.6666rem;
      height:0.666rem;
      font-size: 44px;
+    color: #fff;
  }
 [data-dpr="2"] .left-xin .weinituijian .weinituijian .hongxin .iconfont.icon-woxihuande {
     font-size: 48px;
@@ -139,6 +140,7 @@ header{
     width: 0.6666rem;
     height:0.666rem;
     font-size: 44px;
+    color: #fff;
 }
 [data-dpr="2"] .left-xin .weinituijian .weinituijian .hongxin .iconfont.icon-nvzhuang {
     font-size: 48px;
@@ -158,6 +160,7 @@ header{
     width: 0.6666rem;
     height:0.666rem;
     font-size: 44px;
+    color: #fff;
 }
 [data-dpr="2"] .left-xin .weinituijian .weinituijian .hongxin .iconfont.icon-nanzhuang {
     font-size: 48px;
@@ -177,6 +180,7 @@ header{
     width: 0.6666rem;
     height:0.666rem;
     font-size: 44px;
+    color: #fff;
 }
 [data-dpr="2"] .left-xin .weinituijian .weinituijian .hongxin .iconfont.icon-xiexue {
     font-size: 48px;
@@ -196,6 +200,7 @@ header{
     width: 0.6666rem;
     height:0.666rem;
     font-size: 44px;
+    color: #fff;
 }
 [data-dpr="2"] .left-xin .weinituijian .weinituijian .hongxin .iconfont.icon-xiangbao {
     font-size: 48px;
@@ -261,6 +266,7 @@ header{
 }
 /*header部分结束*/
 .diyige{
+    margin: 0 auto;
     position: relative;
     box-sizing: border-box;
     display: flex;
